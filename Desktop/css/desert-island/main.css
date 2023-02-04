@@ -1,0 +1,11 @@
+body {
+    background-color: lightyellow;
+    padding: 1rem 5rem;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
